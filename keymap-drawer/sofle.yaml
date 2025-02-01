@@ -64,7 +64,7 @@ layers:
   - $$mdi:keyboard-space$$
   - '2'
   - RIGHT GUI
-  - PRTSC
+  - PRINTSCREEN
   layer1:
   - {t: '`', s: '~'}
   - F1
